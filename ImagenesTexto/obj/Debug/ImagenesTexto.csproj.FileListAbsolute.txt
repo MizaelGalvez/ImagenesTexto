@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\bin\Debug\ImagenesTexto.exe.config
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\bin\Debug\ImagenesTexto.exe
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\bin\Debug\ImagenesTexto.pdb
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Debug\ImagenesTexto.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Debug\ImagenesTexto.Form1.resources
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Debug\ImagenesTexto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Debug\ImagenesTexto.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Debug\ImagenesTexto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Debug\ImagenesTexto.exe
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Debug\ImagenesTexto.pdb
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\bin\Debug\ImagenesTexto.exe.manifest
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\bin\Debug\ImagenesTexto.application
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Debug\ImagenesTexto.exe.manifest
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Debug\ImagenesTexto.application

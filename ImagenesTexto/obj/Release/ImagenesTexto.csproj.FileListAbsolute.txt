@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\bin\Release\ImagenesTexto.exe.config
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\bin\Release\ImagenesTexto.exe
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\bin\Release\ImagenesTexto.pdb
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\bin\Release\Microsoft.ProjectOxford.Vision.dll
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\bin\Release\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\bin\Release\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Release\ImagenesTexto.Form1.resources
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Release\ImagenesTexto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Release\ImagenesTexto.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Release\ImagenesTexto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Release\ImagenesTexto.exe
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Release\ImagenesTexto.pdb
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\bin\Release\ImagenesTexto.exe.manifest
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\bin\Release\ImagenesTexto.application
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Release\ImagenesTexto.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Release\ImagenesTexto.exe.manifest
+C:\Users\Usuario\Desktop\ImagenesTexto\ImagenesTexto\obj\Release\ImagenesTexto.application
