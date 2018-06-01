@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ImagenesTexto.exe" size="19976">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ImagenesTexto.exe" size="19464">
       <assemblyIdentity name="ImagenesTexto" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>w156SxGG6nXttSJ5KsqDJYuydBjEvHlegSFPYxIq9gQ=</dsig:DigestValue>
+        <dsig:DigestValue>WfURbtQxh2OwPQUmm6oH3lc0KpR76PjOUwZAepaslek=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
